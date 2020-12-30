@@ -1,4 +1,5 @@
-# my_refind
-[What is rEFInd?](https://en.wikipedia.org/wiki/REFInd)
+# About
 
-用于macbook上引导ubuntu 和macos的一些配置和修改。
+It is a customisation for me to config rEFInd which is used to lead either Ubuntu and MAC os on macbook startup.
+
+[rEFInd in wiki](https://en.wikipedia.org/wiki/REFInd).
